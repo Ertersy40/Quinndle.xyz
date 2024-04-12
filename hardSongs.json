@@ -1,0 +1,652 @@
+[
+    {
+        "album_name": "Change of Scenery",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273e1813b0ce32dab08c3259ad8",
+        "tracks": [
+            {
+                "track_name": "Native Tongue",
+                "track_length": "2:58",
+                "features": []
+            },
+            {
+                "track_name": "Demon",
+                "track_length": "3:20",
+                "features": []
+            },
+            {
+                "track_name": "FFYL",
+                "track_length": "3:46",
+                "features": []
+            },
+            {
+                "track_name": "Wounds",
+                "track_length": "3:31",
+                "features": []
+            },
+            {
+                "track_name": "Another Day in Paradise",
+                "track_length": "4:15",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "Let Me Down",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b2735f256b38690cc45a19031424",
+        "tracks": [
+            {
+                "track_name": "Let Me Down (with Chelsea Cutler)",
+                "track_length": "2:29",
+                "features": [
+                    "Chelsea Cutler"
+                ]
+            },
+            {
+                "track_name": "Common (with Big Sean)",
+                "track_length": "2:39",
+                "features": [
+                    "Big Sean"
+                ]
+            },
+            {
+                "track_name": "Backpack",
+                "track_length": "2:57",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "The Lows",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b2739a036347596b49148d9f9758",
+        "tracks": [
+            {
+                "track_name": "The Lows",
+                "track_length": "2:50",
+                "features": []
+            },
+            {
+                "track_name": "Let Me Down (with Chelsea Cutler)",
+                "track_length": "2:29",
+                "features": [
+                    "Chelsea Cutler"
+                ]
+            },
+            {
+                "track_name": "Common (with Big Sean)",
+                "track_length": "2:39",
+                "features": [
+                    "Big Sean"
+                ]
+            },
+            {
+                "track_name": "Backpack",
+                "track_length": "2:57",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "Bloom",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b27386076d1b5b3bda8eca6b05d5",
+        "tracks": [
+            {
+                "track_name": "Light On",
+                "track_length": "3:44",
+                "features": []
+            },
+            {
+                "track_name": "These Days",
+                "track_length": "4:12",
+                "features": []
+            },
+            {
+                "track_name": "Bootleggin'",
+                "track_length": "3:23",
+                "features": []
+            },
+            {
+                "track_name": "Fight Song",
+                "track_length": "3:23",
+                "features": []
+            },
+            {
+                "track_name": "New Wave",
+                "track_length": "3:31",
+                "features": []
+            },
+            {
+                "track_name": "Good Friend",
+                "track_length": "3:43",
+                "features": []
+            },
+            {
+                "track_name": "Bones",
+                "track_length": "3:42",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "The Story of Us",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b27376767c56ea68780fff2efb31",
+        "tracks": [
+            {
+                "track_name": "Intro (Slow)",
+                "track_length": "2:38",
+                "features": []
+            },
+            {
+                "track_name": "Straightjacket",
+                "track_length": "3:26",
+                "features": []
+            },
+            {
+                "track_name": "Worst",
+                "track_length": "3:15",
+                "features": []
+            },
+            {
+                "track_name": "Flare Guns",
+                "track_length": "4:00",
+                "features": [
+                    "Chelsea Cutler"
+                ]
+            },
+            {
+                "track_name": "Fake Denim",
+                "track_length": "3:07",
+                "features": []
+            },
+            {
+                "track_name": "Don't You",
+                "track_length": "3:52",
+                "features": []
+            },
+            {
+                "track_name": "60 Seconds",
+                "track_length": "3:03",
+                "features": []
+            },
+            {
+                "track_name": "Walls",
+                "track_length": "2:59",
+                "features": []
+            },
+            {
+                "track_name": "Tourist",
+                "track_length": "3:08",
+                "features": []
+            },
+            {
+                "track_name": "One Day At A Time",
+                "track_length": "3:17",
+                "features": []
+            },
+            {
+                "track_name": "Always Been You",
+                "track_length": "3:55",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "The Story of Us (Deluxe)",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273fd61901328e049ff1f5b2f7f",
+        "tracks": [
+            {
+                "track_name": "Intro (Slow)",
+                "track_length": "2:38",
+                "features": []
+            },
+            {
+                "track_name": "Straightjacket",
+                "track_length": "3:26",
+                "features": []
+            },
+            {
+                "track_name": "Worst",
+                "track_length": "3:15",
+                "features": []
+            },
+            {
+                "track_name": "Flare Guns",
+                "track_length": "4:00",
+                "features": [
+                    "Chelsea Cutler"
+                ]
+            },
+            {
+                "track_name": "Fake Denim",
+                "track_length": "3:07",
+                "features": []
+            },
+            {
+                "track_name": "Don't You",
+                "track_length": "3:52",
+                "features": []
+            },
+            {
+                "track_name": "60 Seconds",
+                "track_length": "3:03",
+                "features": []
+            },
+            {
+                "track_name": "Walls",
+                "track_length": "2:59",
+                "features": []
+            },
+            {
+                "track_name": "Tourist",
+                "track_length": "3:08",
+                "features": []
+            },
+            {
+                "track_name": "One Day At A Time",
+                "track_length": "3:17",
+                "features": []
+            },
+            {
+                "track_name": "Always Been You",
+                "track_length": "3:56",
+                "features": []
+            },
+            {
+                "track_name": "Candle",
+                "track_length": "3:34",
+                "features": []
+            },
+            {
+                "track_name": "Iron & Steel",
+                "track_length": "3:23",
+                "features": []
+            },
+            {
+                "track_name": "What The Hell Happened To Us",
+                "track_length": "3:37",
+                "features": [
+                    "Kailee Morgue"
+                ]
+            },
+            {
+                "track_name": "Before It Burned",
+                "track_length": "2:55",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "From Michigan With Love",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b27371240fd7447ba7f20c5600ec",
+        "tracks": [
+            {
+                "track_name": "Holding Hands (feat. Elohim)",
+                "track_length": "3:45",
+                "features": [
+                    "Elohim"
+                ]
+            },
+            {
+                "track_name": "Autopilot",
+                "track_length": "3:01",
+                "features": []
+            },
+            {
+                "track_name": "Life Must Go On",
+                "track_length": "3:05",
+                "features": []
+            },
+            {
+                "track_name": "U & Us",
+                "track_length": "3:46",
+                "features": []
+            },
+            {
+                "track_name": "Werewolf (feat. Yoshi Flower)",
+                "track_length": "3:11",
+                "features": [
+                    "Yoshi Flower"
+                ]
+            },
+            {
+                "track_name": "Tough (feat. Noah Kahan)",
+                "track_length": "2:58",
+                "features": [
+                    "Noah Kahan"
+                ]
+            },
+            {
+                "track_name": "Matches",
+                "track_length": "3:23",
+                "features": []
+            },
+            {
+                "track_name": "When I Die",
+                "track_length": "3:08",
+                "features": []
+            },
+            {
+                "track_name": "Abel & Cain",
+                "track_length": "3:47",
+                "features": []
+            },
+            {
+                "track_name": "Sad Still",
+                "track_length": "3:04",
+                "features": []
+            },
+            {
+                "track_name": "Good Thing Go",
+                "track_length": "3:32",
+                "features": []
+            },
+            {
+                "track_name": "Right Where You Should Be (feat. Ashe & Louis Futon)",
+                "track_length": "3:27",
+                "features": [
+                    "Ashe",
+                    "Louis Futon"
+                ]
+            }
+        ]
+    },
+    {
+        "album_name": "A Letter To My Younger Self",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273f83dbc7461aefc08696811c0",
+        "tracks": [
+            {
+                "track_name": "Am I High Rn (feat. blackbear)",
+                "track_length": "3:19",
+                "features": [
+                    "blackbear"
+                ]
+            },
+            {
+                "track_name": "Stacy",
+                "track_length": "2:48",
+                "features": []
+            },
+            {
+                "track_name": "Sleep While I Drive (feat. Ashe)",
+                "track_length": "3:24",
+                "features": [
+                    "Ashe"
+                ]
+            },
+            {
+                "track_name": "Second Time Around",
+                "track_length": "3:57",
+                "features": []
+            },
+            {
+                "track_name": "Coffee (feat. Marc E. Bassy)",
+                "track_length": "3:00",
+                "features": [
+                    "Marc E. Bassy"
+                ]
+            },
+            {
+                "track_name": "Notice Me",
+                "track_length": "3:25",
+                "features": []
+            },
+            {
+                "track_name": "A Letter To My Younger Self (feat. Logic)",
+                "track_length": "3:32",
+                "features": [
+                    "Logic"
+                ]
+            },
+            {
+                "track_name": "More Than Friends",
+                "track_length": "2:50",
+                "features": []
+            },
+            {
+                "track_name": "Mad At Me",
+                "track_length": "3:36",
+                "features": []
+            },
+            {
+                "track_name": "Two 10s",
+                "track_length": "3:37",
+                "features": []
+            },
+            {
+                "track_name": "Meeting Strangers",
+                "track_length": "3:13",
+                "features": []
+            },
+            {
+                "track_name": "Everything I Need",
+                "track_length": "4:08",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "Change of Scenery II",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273d827f56df28bdd1de12fd3c6",
+        "tracks": [
+            {
+                "track_name": "We Made This Album In Newport",
+                "track_length": "0:58",
+                "features": []
+            },
+            {
+                "track_name": "Distracted Youth",
+                "track_length": "3:00",
+                "features": []
+            },
+            {
+                "track_name": "My Wife & 2 Dogs",
+                "track_length": "2:18",
+                "features": []
+            },
+            {
+                "track_name": "SOS",
+                "track_length": "3:23",
+                "features": []
+            },
+            {
+                "track_name": "Hey, Goodbye",
+                "track_length": "3:03",
+                "features": []
+            },
+            {
+                "track_name": "Doris Terrace (with Jeremy Zucker & ayokay)",
+                "track_length": "3:32",
+                "features": [
+                    "Jeremy Zucker",
+                    "ayokay"
+                ]
+            },
+            {
+                "track_name": "Stay Next To Me (with Chelsea Cutler)",
+                "track_length": "3:26",
+                "features": [
+                    "Chelsea Cutler"
+                ]
+            },
+            {
+                "track_name": "Mexico City",
+                "track_length": "3:12",
+                "features": []
+            },
+            {
+                "track_name": "Monday Morning",
+                "track_length": "2:33",
+                "features": []
+            },
+            {
+                "track_name": "We Don't Talk Enough (with Alexander 23)",
+                "track_length": "2:28",
+                "features": [
+                    "Alexander 23"
+                ]
+            },
+            {
+                "track_name": "Feel Something",
+                "track_length": "2:40",
+                "features": []
+            },
+            {
+                "track_name": "Look How Far We've Come",
+                "track_length": "3:22",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "The People's Champ",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b27348826e0cc87c1c0fe4efaaf0",
+        "tracks": [
+            {
+                "track_name": "Bartender",
+                "track_length": "2:56",
+                "features": []
+            },
+            {
+                "track_name": "Common (with Big Sean)",
+                "track_length": "2:39",
+                "features": [
+                    "Big Sean"
+                ]
+            },
+            {
+                "track_name": "Black Porsche",
+                "track_length": "3:06",
+                "features": []
+            },
+            {
+                "track_name": "FOMO (Don't Do Cool Shit)",
+                "track_length": "2:37",
+                "features": []
+            },
+            {
+                "track_name": "Let Me Down (with Chelsea Cutler)",
+                "track_length": "2:29",
+                "features": [
+                    "Chelsea Cutler"
+                ]
+            },
+            {
+                "track_name": "Good Either Way (with Adrian Cota)",
+                "track_length": "2:41",
+                "features": [
+                    "Adrian Cota"
+                ]
+            },
+            {
+                "track_name": "Too Late (with AJR)",
+                "track_length": "2:55",
+                "features": [
+                    "AJR"
+                ]
+            },
+            {
+                "track_name": "The Lows",
+                "track_length": "2:50",
+                "features": []
+            },
+            {
+                "track_name": "Being Me",
+                "track_length": "2:14",
+                "features": []
+            },
+            {
+                "track_name": "Why Do You Talk To Me?",
+                "track_length": "2:53",
+                "features": []
+            },
+            {
+                "track_name": "Backpack",
+                "track_length": "2:57",
+                "features": []
+            },
+            {
+                "track_name": "All That You Need",
+                "track_length": "2:54",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "The People's Champ (Extended Version)",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273a8ae292663703128f9862026",
+        "tracks": [
+            {
+                "track_name": "Georgia Peach",
+                "track_length": "2:21",
+                "features": []
+            },
+            {
+                "track_name": "Bartender",
+                "track_length": "2:56",
+                "features": []
+            },
+            {
+                "track_name": "Common (with Big Sean)",
+                "track_length": "2:39",
+                "features": [
+                    "Big Sean"
+                ]
+            },
+            {
+                "track_name": "Black Porsche",
+                "track_length": "3:06",
+                "features": []
+            },
+            {
+                "track_name": "FOMO (Don't Do Cool Shit)",
+                "track_length": "2:37",
+                "features": []
+            },
+            {
+                "track_name": "Let Me Down (with Chelsea Cutler)",
+                "track_length": "2:29",
+                "features": [
+                    "Chelsea Cutler"
+                ]
+            },
+            {
+                "track_name": "Good Either Way (with Adrian Cota)",
+                "track_length": "2:41",
+                "features": [
+                    "Adrian Cota"
+                ]
+            },
+            {
+                "track_name": "Too Late (with AJR)",
+                "track_length": "2:55",
+                "features": [
+                    "AJR"
+                ]
+            },
+            {
+                "track_name": "The Lows",
+                "track_length": "2:50",
+                "features": []
+            },
+            {
+                "track_name": "Being Me",
+                "track_length": "2:14",
+                "features": []
+            },
+            {
+                "track_name": "Why Do You Talk To Me?",
+                "track_length": "2:53",
+                "features": []
+            },
+            {
+                "track_name": "Backpack",
+                "track_length": "2:57",
+                "features": []
+            },
+            {
+                "track_name": "All That You Need",
+                "track_length": "2:54",
+                "features": []
+            }
+        ]
+    }
+]
